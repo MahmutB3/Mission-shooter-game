@@ -45,6 +45,8 @@
 *.rns filter=lfs diff=lfs merge=lfs -text
 *.reason filter=lfs diff=lfs merge=lfs -text
 *.lxo filter=lfs diff=lfs merge=lfs -text
+*.resS filter=lfs diff=lfs merge=lfs -text
+*.assets.resS filter=lfs diff=lfs merge=lfs -text
 Mission[[:space:]]shooter[[:space:]]game/SetupGame/Mission[[:space:]]shooter[[:space:]]game_Data/level1.resS filter=lfs diff=lfs merge=lfs -text
 Mission[[:space:]]shooter[[:space:]]game/SetupGame/Mission[[:space:]]shooter[[:space:]]game_Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
 Mission[[:space:]]shooter[[:space:]]game/Assets/Scenes/MissionShooter.unity filter=lfs diff=lfs merge=lfs -text
